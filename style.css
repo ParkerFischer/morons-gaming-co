@@ -121,7 +121,7 @@ nav {
   z-index: -1;
   width: 100%;
   height: 100%;
-  background-image:/images/morons-logo-gs.png  no-repeat;
+  background-image:'/images/morons-logo-gs.png' ;
   background-size: cover;
 }
 
