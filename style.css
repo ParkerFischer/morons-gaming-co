@@ -159,7 +159,7 @@ section .content {
   margin: 1em auto;
   max-width: 900px;
   width: 60%;
-  color: #DC143C;
+  color: #000000;
 }
 
 section h1,
@@ -177,12 +177,12 @@ section p {
 /*Home page*/
 /*About page*/
 .about {
-  background: rgba(255, 255, 255, 0.75);
+  background-image:'/images/morons-logo-gs.png' ;
 }
 
 /*Clients page*/
 .clients {
-  background: rgba(255, 255, 255, 0.75);
+ background-image:'/images/morons-logo-gs.png' ;
 }
 
 .clients .row {
@@ -205,7 +205,7 @@ section p {
 
 /*Contact page*/
 .contact {
-  background: rgba(255, 255, 255, 0.75);
+ background-image:'/images/morons-logo-gs.png';
 }
 
 .map-container,
@@ -214,7 +214,7 @@ section p {
   width: 300px;
   height: 300px;
   background: url(http://mapserver.mapy.cz/compose?cx=14.439095639754257&cy=50.05115503092217&w=1024&h=480&scale=0.7&z=15&palette=32) no-repeat center center;
-  border: 0.5em solid #DC143C;
+  border: 0.5em solid #000000;
   border-radius: 50%;
   overflow: hidden;
 }
