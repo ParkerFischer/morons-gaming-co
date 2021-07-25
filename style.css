@@ -188,13 +188,13 @@ section p {
 }
 
 .clients .row {
-  float: left;
+  float: center;
   margin-bottom: 1em;
   width: 100%;
 }
 
 .client-box {
-  float: left;
+  float: center;
   margin: 0 3em;
   width: 1000px;
   height: 1000px;
